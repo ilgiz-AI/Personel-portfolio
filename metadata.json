@@ -1,0 +1,7 @@
+{
+  "name": "Elite Portfolio OS",
+  "description": "A high-end personal portfolio featuring a sleek glassmorphism UI and an integrated Gemini-powered AI assistant to answer recruiter questions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
